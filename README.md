@@ -6,7 +6,11 @@ CapShot is a screen capture tool which small and useful, i copy it from csdn, so
 
 # 项目效果
 
-![]()
+![](./屏幕截图 2026-01-15 195216.png)
+
+![](./屏幕截图 2026-01-15 195401.png)
+
+
 
 # Credit
 
