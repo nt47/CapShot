@@ -4,9 +4,9 @@ CapShot is a screen capture tool which small and useful, i copy it from CSDN, so
 
 # 项目效果
 
-![](./2026-01-15_195216.png)
+![](./2026-01-15-195216.png)
 
-![](./2026-01-15_195401.png)
+![](./2026-01-15-195401.png)
 
 
 
