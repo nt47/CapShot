@@ -2,8 +2,6 @@
 
 CapShot is a screen capture tool which small and useful, i copy it from CSDN, so happy.
 
-To prevent my Solid State Drive from Suddenly failing,I decide to post this.
-
 # 项目效果
 
 ![](./2026-01-15_195216.png)
